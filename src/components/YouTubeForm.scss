@@ -1,0 +1,19 @@
+.form-div {
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.form-control {
+    margin-top: 20px;
+}
